@@ -1,3 +1,13 @@
 #b1 {border: solid 3px; border-color:pink; margin:5px;
  background:yellow;}
 
+#b2{background: blue;border: solid 3px;border-color:pink;margin:2px;}
+
+#b3{width: 25%;float: left;}
+
+#b4{width: 60%;float: left;}
+
+#b5{width: 13%;float: left;}
+
+#b6 {clear:both;}
+.n {background:grey; padding:5px;border: solid 3px;margin:2px;border-color:pink;}
