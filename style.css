@@ -1,6 +1,6 @@
-div{border: pink}
+div{border: pink;margin:5px;}
 
-#b1 {border: solid 3px; border-color:pink; margin:5px;
+#b1 {border: solid 3px;border-color:pink;margin:5px;
  background:yellow;}
 
 #b2{background: blue;border: solid 3px;border-color:pink;margin:2px;}
