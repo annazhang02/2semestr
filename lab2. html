@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title> 2 семестр Лабораторная 1 Чжан Чи  </title> 
+ </head>
+ <body>
+<div id="b1"></div>
+<div id="b2"></div>
+   <img src="logo.jpg" alt="logo">
+  <h1>Чжан Чи</h1>
+  <h2>1 курс. Физики</h2>
+  </div>
+ <div id="b3"></div>
+   <p><strong> Времена года </strong></p>
+  <ol> 
+  <li>Зима</li>
+ <li>Весна</li>
+ <li>Лето</li>
+ <li>Осень</li>  
+</ol>   
+<div id="b4"></div>
+ <ol> 
+ <li><p><a href="https://sinoptik.ua"><h1>Прогноз погоды 1</a></p></li> 
+ <li><p><a href="https://www.gismeteo.ua"><h1>Прогноз погоды 2</a></p></li>
+ <li><p><a href="https://www.meteoprog.ua"><h3>Прогноз погоды 3</a></p></li> 
+  </ol> 
+<div id="b5"></div>
+   <table border="1" width="100%" cellpadding="5">
+   <tr>
+    <th>Ячейка 1</th>
+    <th>Ячейка 2</th>
+   </tr>
+   <tr>
+    <td colspan="2">Ячейка 3</td>
+    
+  </tr>
+    <tr>
+    <td>Ячейка 5</td>
+    <td rowspan="2">Ячейка 6</td>
+  </tr>
+    <tr>
+    <td>Ячейка 3</td>
+  </tr>
+ </table>  
+<div id="b6"></div>
+<div id="b7"></div>
+  <div id="footer">&copy; Лабороторна робота №1_2 семестру_студеники 1 курсу_Чжан Чи_групи"Фізики"</div>
+</body>
+</html>
