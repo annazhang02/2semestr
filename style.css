@@ -1,13 +1,14 @@
-div{border: solid 3px pink;margin:5px;background: PeachPuff;}
+div{border: solid 3px pink;margin:5px;
+  background:#DCD0FF;}
 
-#b1 {background:Aquamarine;}
+#b1 {background:#00BFFF;width:100%;}
 
-#b2{border-color:pink;margin:2px;}
+#b2{border-color:#FF8000	;margin:2px;}
 
-#b3{width: 25%;float:left;background:grey; padding:5px; }
+#b3{float:left;background:#FDEAA8;padding:5px;width:25%;}
 
-#b4{width: 60%;float:left;background:grey; padding:5px;}
+#b4{float:left;background:#FDEAA8;padding:5px; width:20%;}
 
-#b5{width: 13%;float:left;background:grey; padding:5px;}
+#b5{float:left;background:#FDEAA8;padding:2px; width:10%;}
 
-#b6 {clear:both;margin: 5px; }
+#b6 {clear:both;margin: 5px;}
