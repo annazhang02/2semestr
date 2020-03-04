@@ -4,10 +4,10 @@ div{border: solid 3px pink;margin:5px;background: lightblue;}
 
 #b2{border-color:pink;margin:2px;}
 
-#b3{width: 25%;float: left;background:grey; padding:5px; }
+#b3{width: 25%;float:left;background:grey; padding:5px; }
 
-#b4{width: 60%;float: left;background:grey; padding:5px;}
+#b4{width: 60%;float:left;background:grey; padding:5px;}
 
-#b5{width: 13%;float: left;background:grey; padding:5px;}
+#b5{width: 13%;float:left;background:grey; padding:5px;}
 
-#b6 {clear:both;}
+#b6 {clear:both;margin: 5px; }
