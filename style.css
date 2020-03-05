@@ -1,14 +1,14 @@
 div{border: solid 3px pink;margin:5px;
-  background:lightblue;}
+  background:lightyellow;}
 
-#b1 {background:violet;width:100%;}
+#b1 {background:lightpink;width:100%;}
 
-#b2{border-color:Coral;margin:2px;}
+#b2{border-color:Lavender;margin:2px;}
 
-#b3{float:left;background:lightgreen;padding:5px;width:25%;}
+#b3{float:left;background:lightblue;padding:5px;width:25%;}
 
-#b4{float:left;background:lightgreen;padding:5px; width:20%;}
+#b4{float:left;background:lightblue;padding:5px; width:20%;}
 
-#b5{float:left;background:lightgreen;padding:2px; width:10%;}
+#b5{float:left;background:lightblue;padding:2px; width:10%;}
 
 #b6 {clear:both;margin:5px;}
