@@ -1,4 +1,12 @@
 div{border: solid 3px black;margin:5px;
-  background:beige;}
+  background:lightgray;}
 
-#b1 {background:brown;width:1200px;height:190px}
+#b1 {background:brown;width:100%;padding:10px;margin-bottom:20px}
+
+#b2{background:yellow;margin:2px;}
+
+#b3{float:left;background:lightblue;padding:5px;width:25%;}
+
+#b4{float:right;background:yellow;padding:5px; width:20%;}
+
+#b5{float:left;background:lightgreen;padding:30px; width:10%;}
