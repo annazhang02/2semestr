@@ -1,1 +1,14 @@
+div{border: solid 3px pink;margin:5px;
+  background:lightyellow;}
 
+#b1 {background:lightpink;width:100%;}
+
+#b2{border-color:Lavender;margin:2px;}
+
+#b3{float:left;background:lightblue;padding:5px;width:25%;}
+
+#b4{float:left;background:lightblue;padding:5px; width:20%;}
+
+#b5{float:left;background:lightblue;padding:5px; width:40%;}
+
+#b6 {clear:both;margin:5px;}
