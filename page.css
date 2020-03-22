@@ -1,6 +1,6 @@
 div{border: solid 3px black;margin:5px;}
 
-#b1 {background:saddlebrown;width:100%;padding:10px;margin-bottom:20px}
+#b1{background:saddlebrown;width:100%;padding:10px;margin-bottom:20px}
 
 #b2{background:yellow;margin:2px;}
 
@@ -9,4 +9,4 @@ div{border: solid 3px black;margin:5px;}
 
 #b4{float:right;background:yellow;padding:5px;width:20%;margin:2px;}
 
-#b5{float:left;background:lightgreen;padding:30px;width:10%;}
+#b5{background:lightgreen;width:100%;padding:10px;margin-bottom:20px}
