@@ -1,7 +1,7 @@
 div{border: solid 3px pink;margin:5px;
   background:lightyellow;}
 
-#b1 {background:lightblue;width:100%;}
+#b1 {background-image:url(back.jpg);width:100%;}
 
 #b2{border-color:Lavender;margin:2px;}
 
