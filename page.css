@@ -1,11 +1,11 @@
 div{border:solid 3px black;margin:5px}
 
-#b1{background:brown}
+#b1{background:brown;height="190";width="1200"}
 
-#b2{background:yellow}
+#b2{background:yellow;height="600";width="150"}
 
-#b3{background-image:url(back.jpg)}
+#b3{background-image:url(back.jpg);height="600";width="150"}
 
-#b4{background:yellow}
+#b4{background:yellow;height="600";width="150"}
 
-#b5{background:green}
+#b5{background:green;height="190";width="1200"}
