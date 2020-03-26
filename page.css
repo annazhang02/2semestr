@@ -2,10 +2,10 @@ div{border:solid 3px black;margin:5px}
 
 #b1{background:brown;height:190px;width:1200px}
 
-#b2{background:yellow;height:600px;width:150px}
+#b2{float:left;background:yellow;height:300px;width:150px}
 
-#b3{float:right;background-image:url(back.jpg);height:600px;width:150px}
+#b3{float:right;background-image:url(back.jpg);height:300px;width:150px}
 
-#b4{float:right;background:yellow;height:600px;width:150px}
+#b4{float:right;background:yellow;height:300px;width:150px}
 
 #b5{background:green;height:190px;width:1200px}
