@@ -6,6 +6,6 @@ div{border:solid 3px black;margin:5px}
 
 #b3{background-image:url(back.jpg);height:600px;width:150px}
 
-#b4{background:yellow;height:600px;width:150px}
+#b4{background:yellow;height:600px;width:150px;float:right}
 
 #b5{background:green;height:190px;width:1200px}
