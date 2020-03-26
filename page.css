@@ -1,2 +1,11 @@
-div{border:solid 3px black; margin-bottom: 30px}
+div{border:solid 3px black;margin:5px;}
 
+#b1{background:saddlebrown}
+
+#b2{float:left;background:yellow}
+
+#b3{float:left;background-image:url(back.jpg)}
+
+#b4{float:left;background:yellow}
+
+#b5{background:lightgreen}
