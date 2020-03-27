@@ -9,3 +9,5 @@ div{border:solid 3px black;margin:5px;padding:10px;text-align:center}
 #b4{float:left;background:yellow;height:500px;width:300px}
 
 #b5{background:green;height:190px;width:1200px}
+
+#b6 {clear:both;margin:5px;}
