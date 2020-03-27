@@ -2,11 +2,11 @@ div{border:solid 3px black;margin:5px;padding:10px;text-align:center}
 
 #b1{background:brown;height:190px;width:1200px}
 
-#b2{float:left;background:yellow;height:500px;width:350px}
+#b2{float:left;background:yellow;height:500px;width:450px}
 
-#b3{float:left;background-image:url(back.jpg);height:500px;width:350px}
+#b3{float:left;background-image:url(back.jpg);height:500px;width:450px}
 
-#b4{float:left;background:yellow;height:500px;width:350px}
+#b4{float:left;background:yellow;height:500px;width:450px}
 
 #b5{background:green;width:1200px;display:inline-block}
 
