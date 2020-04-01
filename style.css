@@ -5,9 +5,9 @@ div{border: solid 3px pink;margin:5px;
 
 #b2{border-color:Lavender;margin:2px;}
 
-#b3{float:left;background:lavender;padding:5px;width:25%;}
+#b3{float:left;background:lavender;padding:5px;width:25%; font-family: Arial Narrow, sans-serif}
 
-#b4{float:left;background:lavender;padding:5px; width:20%;}
+#b4{float:left;background:lavender;padding:5px; width:20%;font-family: Comic Sans MS, Comic Sans, cursive}
 
 #b5{float:left;background:lavender;padding:5px; width:40%;}
 
